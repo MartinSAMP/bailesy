@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "author": "Rajeh Taher",
-  "main": "lib/index.js",
+  "main": "index.js",
   "files": [
     "lib/**/*",
     "WAProto/**/*",
